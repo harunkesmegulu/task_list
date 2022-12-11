@@ -1,1 +1,1 @@
- https://harunkesmegulu.github.io/task_list/
+https://github.com/harunkesmegulu/task_list
